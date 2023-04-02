@@ -269,7 +269,7 @@ img {
     right: 0;
     bottom: 0;
     width: 295px;
-    animation: animation 700ms ease-in-out 400ms;
+    animation: animation 700ms ease-in-out;
 }
 
 
